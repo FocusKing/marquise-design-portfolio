@@ -41,7 +41,30 @@
     justify-content:space-around;
     align-content: center;
     flex-grow: 1;
-    background-image: url("../images/julian-hanslmaier-afyeajNGFKg-unsplash.jpg");
+    background-image: url("../images/julian.jpg");
     background-size: cover;
+    
   }
-  
+  .about-me {
+    border: 5px solid rgba(0, 110, 255, 0.432);  
+    padding: 25px;
+
+  }
+  .my-creations {
+      border: 5px solid rgba(0, 110, 255, 0.432);  
+      padding: 25px;
+      
+  }
+  .contact-me {
+      border: 5px solid rgba(0, 110, 255, 0.432);  
+      padding: 25px;
+      
+  }
+  .links {
+      display: flex;
+      justify-content: center;
+  }
+  .image {
+      border-radius: 50px;
+      border: 2px solid whitesmoke;
+  }
