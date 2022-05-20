@@ -9,6 +9,7 @@
     flex-direction: column;
     min-height: 100vh;
     justify-content: flex-start;
+    background-size: auto;
   }
   
   header {
@@ -41,30 +42,35 @@
     justify-content:space-around;
     align-content: center;
     flex-grow: 1;
+    flex-flow: column;
     background-image: url("../images/julian.jpg");
     background-size: cover;
-    
-  }
+} 
   .about-me {
     border: 5px solid rgba(0, 110, 255, 0.432);  
     padding: 25px;
+
 
   }
   .my-creations {
       border: 5px solid rgba(0, 110, 255, 0.432);  
       padding: 25px;
+      box-shadow: 100px;
+      
       
   }
   
   .contact-me {
       border: 5px solid rgba(0, 110, 255, 0.432);  
-      padding: 25px;
+      padding: 55px;
       
-      
+           
   }
   .links {
       display: flex;
       justify-content: center;
+      background-color: darkblue;
+      color:white;
   }
   .image {
       border-radius: 50px;
@@ -76,5 +82,10 @@
     }
     footer {
       background-color: rgb(6, 46, 6);
-      ;
+      color: #fff;
+      margin-top: auto;
     }
+    .rotate {
+        transform: (12deg);
+    }
+    
