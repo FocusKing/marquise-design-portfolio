@@ -17,14 +17,20 @@
     background: #13293d;
     color: #fff;
   }
-  
+  nav :hover{
+      color:yellow;
+      transition: .5s;
+  }
   nav {
     display: flex;
-    background-color: #d8a47f;
+    justify-content: space-around;
+    align-items: center;
+    background-color: rgb(6, 46, 6);
+    
   }
   
   nav a {
-    color: #13293d;
+    color: white;
     padding: 14px 20px;
     text-decoration: none;
     text-align: center;
@@ -32,7 +38,10 @@
   
   main {
     display: flex;
-    flex-wrap: wrap;
+    justify-content:space-around;
+    align-content: center;
     flex-grow: 1;
+    background-image: url("../images/julian-hanslmaier-afyeajNGFKg-unsplash.jpg");
+    background-size: cover;
   }
   

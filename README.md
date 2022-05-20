@@ -2,7 +2,7 @@
 
 ## Description
 
-In this project we start out by cloning the starter code, and refactoring it to meet the Acceptance Criteria. 
+In this project we create a web application from scratch.  Building a portfolio page to add to my arsenal of projects.   Utilizing skills we used such as flexbox, media queries and css variable to meet the Acceptance Criteria. 
 I added semantic values to the tags within the HTML file, so that our own site is optimized for search engines.  
 Tested displays for style and functionality.  
 
@@ -18,8 +18,7 @@ Tested displays for style and functionality.
 - [Tests](#tests)
 
 ## Usage
-I was able to add semantic values to the tags within the HTML file, but I also wanted to make sure that the site still functioned properly.  
-Provided notes within each element to explain the changes made throughout the assignment. 
+A portfolio of work can showcase your skills and talents to employers looking to fill a part-time or full-time position.  Highlight strengths, showcase skills and allow people to learn a little more about myself.
 
 ## Visuals
 ![SEO imgage](./assets/images/website.png)
