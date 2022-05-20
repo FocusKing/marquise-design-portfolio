@@ -7,9 +7,9 @@ I added semantic values to the tags within the HTML file, so that our own site i
 Tested displays for style and functionality.  
 
 ## Resources
-[Git Hub Repo](https://github.com/FocusKing/seo-refactor)
+[Git Hub Repo](https://github.com/FocusKing/marquise-design-portfolio)
 
-[LIVE SITE](https://focusking.github.io/seo-refactor/)
+[LIVE SITE](https://focusking.github.io/marquise-design-portfolio/)
 
 ## Table of Contents 
 
@@ -21,12 +21,11 @@ Tested displays for style and functionality.
 A portfolio of work can showcase your skills and talents to employers looking to fill a part-time or full-time position.  Highlight strengths, showcase skills and allow people to learn a little more about myself.
 
 ## Visuals
-![SEO imgage](./assets/images/website.png)
+![Portfolio imgage](./assets/image/marquiseallendesign.png)
 
 ## Tests
 
 As an employee completing the assignment given by a marketing agency
 I created  a codebase that follows accessibility standards
 so that our own site is optimized for search engines.
-I utilized Live Server to see instant changes as I made entries into the portal.  
-Testing to make sure the things I input were entered correctly and that the site still operated properly.
+Utilized the inspect tool to dissect the site and check for any errors. 

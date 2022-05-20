@@ -62,9 +62,7 @@
   
   .contact-me {
       border: 5px solid rgba(0, 110, 255, 0.432);  
-      padding: 55px;
-      
-           
+      padding: 55px;       
   }
   .links {
       display: flex;
@@ -85,7 +83,4 @@
       color: #fff;
       margin-top: auto;
     }
-    .rotate {
-        transform: (12deg);
-    }
-    
+  
