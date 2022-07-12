@@ -21,7 +21,7 @@ Tested displays for style and functionality.
 A portfolio of work can showcase your skills and talents to employers looking to fill a part-time or full-time position.  Highlight strengths, showcase skills and allow people to learn a little more about myself.
 
 ## Visuals
-![Portfolio imgage](./assets/images/marquiseallendesign.png)
+![Portfolio imgage](./assets/images/marquiseallendesignportfolio2.png)
 
 ## Tests
 
