@@ -1,0 +1,13 @@
+{
+	"folders": [
+		{
+			"path": "."
+		},
+		{
+			"path": "..\\seo-refactor"
+		}
+	],
+	"settings": {
+		"liveServer.settings.multiRootWorkspaceName": "marquise-design-portfolio"
+	}
+}
